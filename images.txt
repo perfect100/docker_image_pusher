@@ -1,7 +1,6 @@
 hello-world
 nginx
-kicbase:v0.0.45
-registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.45
+kicbase/stable:v0.0.45
 #minikube
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
